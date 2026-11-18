@@ -1,217 +1,222 @@
-<!--
-  GITHUB PROFILE README — Rahil Hussain (Rahil-dope)
-  Theme: Futuristic Dark · Premium Developer · AI-Inspired
-  Palette: bg #0D1117 · accent cyan #00D9FF · text #C9D1D9 · muted #8B949E
-  (Change the hex codes below across badge/stat URLs to re-theme.)
--->
-
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=180&section=header&text=RAHIL%20HUSSAIN&fontColor=FFFFFF&fontAlignY=38&fontSize=42&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20Backend&descAlignY=58&descSize=16" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Python+Backend+Developer;Building+AI-Powered+Systems+%F0%9F%A4%96;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+LLMs+%E2%80%A2+RAG;Turning+Ideas+Into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=190&section=header&text=RAHIL%20HUSSAIN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Rahil Hussain profile banner"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Hyderabad%2C_India-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/B.Tech_CSE_%7C_2027-00D9FF?style=for-the-badge&logo=googlescholar&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Open_to_Internships_%7C_Freelance-00D9FF?style=for-the-badge" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Rahil-dope&label=Profile+Views&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Rahil-dope?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github&logoColor=00D9FF" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Building+AI-Powered+Applications;FastAPI+%7C+PostgreSQL+%7C+LLMs+%7C+RAG;Turning+Ideas+Into+Scalable+Products" alt="Animated introduction"/>
 
 <br/><br/>
 
-<a href="https://github.com/Rahil-dope"><img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/rahiiihusss"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
-<a href="mailto:Rahilhussain431601@gmail.com"><img src="https://img.shields.io/badge/Gmail-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
-<a href="https://x.com/rahihuss"><img src="https://img.shields.io/badge/X-00D9FF?style=for-the-badge&logo=x&logoColor=0D1117" /></a>
+<img src="https://img.shields.io/badge/📍_Hyderabad,_India-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
+<img src="https://img.shields.io/badge/B.Tech_CSE-2027-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
+<img src="https://img.shields.io/badge/Open_to_Opportunities-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
+
+<br/><br/>
+
+<a href="https://github.com/Rahil-dope">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+<a href="https://www.linkedin.com/in/rahiiihusss">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+</a>
+<a href="mailto:Rahilhussain431601@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
+</a>
+<a href="https://x.com/rahihuss">
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00D9FF"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rahil-dope&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile views"/>
 
 </div>
 
-<br/>
+---
 
 ## 🧠 About Me
 
-Computer Science student (2027) focused on backend engineering — building systems with Python, FastAPI, and PostgreSQL, and exploring how LLMs and RAG pipelines turn into real, usable products.
+I'm a Computer Science undergraduate graduating in 2027, focused on backend engineering and building practical software products.
 
-> *"If it's not selling, it's not worth making."*
+I work primarily with Python, FastAPI, and PostgreSQL while exploring Generative AI, Large Language Models, and Retrieval-Augmented Generation.
 
-- ⚙️ Backend-first: Python, FastAPI, PostgreSQL, system design
-- 🧬 Exploring Generative AI, LLMs, RAG, and data engineering
-- 🚀 Think like a founder, build like an engineer, ship like a professional
-- 🤝 Open to internships, freelance work, and collaboration
+- ⚙️ **Backend:** Python, FastAPI, REST APIs, PostgreSQL
+- 🤖 **AI:** Generative AI, LLMs, RAG, LangChain
+- 📊 **Data:** SQL, Pandas, NumPy, data engineering fundamentals
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React
+- 🚀 **Mindset:** Build useful products, validate ideas, and keep improving.
+- 🤝 **Open to:** Internships, freelance opportunities, and collaborations.
 
-<br/>
+> "If it's not selling, it's not worth making."
+
+---
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+### Programming Languages
 
-**💻 Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" alt="Python and JavaScript"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+`Python` `JavaScript` `SQL`
 
-<sub>Python • JavaScript • SQL</sub>
+### Backend Development
 
-</td>
-<td align="center" width="50%">
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark" alt="FastAPI and PostgreSQL"/>
+</p>
 
-**🎨 Frontend**
+`FastAPI` `REST APIs` `PostgreSQL` `Authentication` `CRUD`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+### Frontend Development
 
-<sub>React • Responsive UI • Hooks</sub>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML CSS React"/>
+</p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+`HTML5` `CSS3` `JavaScript` `React`
 
-**⚙️ Backend & APIs**
+### AI & Data
 
-<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas&theme=dark" alt="TensorFlow NumPy Pandas"/>
+</p>
 
-<sub>REST APIs • Auth • CRUD</sub>
+`LLMs` `RAG` `LangChain` `NumPy` `Pandas` `Vector Databases`
 
-</td>
-<td align="center">
+### Cloud, DevOps & Tools
 
-**🗄️ Databases**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,vscode,postman&theme=dark" alt="Development tools"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+`Git` `GitHub` `Docker` `AWS` `Azure` `VS Code` `Postman` `Kaggle`
 
-<sub>SQL • Modeling • Vector DBs</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🤖 AI & Generative AI**
-
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
-
-<sub>LLMs • RAG • LangChain</sub>
-
-</td>
-<td align="center">
-
-**📊 Data Engineering**
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
-
-<sub>ETL • Airflow • Automation</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**☁️ DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure&theme=dark" />
-
-<sub>CI/CD • Containers • Deployment</sub>
-
-</td>
-<td align="center">
-
-**🔧 Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" /> <img src="https://img.shields.io/badge/Kaggle-00D9FF?style=flat-square&logo=kaggle&logoColor=0D1117" />
-
-<sub>VS Code • Postman • Kaggle</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## 🚀 Featured Projects
 
-<p align="center">
+I believe projects should demonstrate practical problem-solving, not just technology familiarity.
+
+Explore my repositories:
+
+<div align="center">
+
 <a href="https://github.com/Rahil-dope?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore repositories"/>
 </a>
-</p>
 
-| Focus Area | Stack |
-|:--|:--|
-| 🌐 Full-Stack Apps | React • FastAPI • PostgreSQL |
-| 🤖 AI-Powered Apps | Python • LLMs • RAG • Vector DBs |
-| 📊 Data Pipelines | Python • SQL • Pandas • Airflow |
+</div>
 
-<br/>
+<!--
+Add your best projects here when they are ready.
 
-## 📈 GitHub Analytics
+Example:
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Rahil-dope&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahil-dope&layout=compact&hide_border=true&langs_count=10&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" /></td>
-</tr>
-</table>
+### Project Name
+A short explanation of the problem this project solves.
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Rahil-dope&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&stroke=00D9FF" />
-</p>
+- Tech: Python, FastAPI, PostgreSQL
+- Features: Feature 1, Feature 2
+- Repository: https://github.com/Rahil-dope/PROJECT-NAME
+-->
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahil-dope&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" />
-</p>
+---
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rahil-dope&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-</p>
+## 📊 GitHub Analytics
 
-<details>
-<summary><sub>🐍 Live contribution snake (optional — needs a one-time Action, see note below)</sub></summary>
-<br/>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahil-dope/Rahil-dope/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Rahil-dope/Rahil-dope/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</picture>
-</p>
-</details>
+<div align="center">
 
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahil-dope&show_icons=true&hide_border=true&include_all_commits=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahil-dope&layout=compact&hide_border=true&langs_count=8&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Rahil-dope&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&stroke=00D9FF" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahil-dope&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Rahil-dope/Rahil-dope/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
 
 ## ⚡ Currently Running
 
 ```python
 class RahilHussain:
+
     def __init__(self):
         self.role = "Software Engineer in Progress"
-        self.focus = ["Python Backend", "FastAPI", "PostgreSQL", "DSA"]
-        self.exploring = ["Generative AI", "LLMs", "RAG", "Data Engineering"]
-        self.open_to = ["Internships", "Freelancing", "Collaborations"]
+
+        self.core_stack = [
+            "Python",
+            "FastAPI",
+            "PostgreSQL",
+            "JavaScript"
+        ]
+
+        self.exploring = [
+            "Generative AI",
+            "LLMs",
+            "RAG",
+            "Data Engineering"
+        ]
+
+        self.open_to = [
+            "Internships",
+            "Freelancing",
+            "Collaborations"
+        ]
 
     def motto(self):
-        return "If it's not selling, it's not worth making."
+        return "Think. Build. Validate. Scale."
 
 
 rahil = RahilHussain()
 print(rahil.motto())
 ```
 
-<br/>
+---
 
-## 🤝 Let's Build Something
+## 🤝 Let's Connect
 
-<p align="center">
-<a href="https://github.com/Rahil-dope"><img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/rahiiihusss"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
-<a href="mailto:Rahilhussain431601@gmail.com"><img src="https://img.shields.io/badge/Gmail-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
-<a href="https://x.com/rahihuss"><img src="https://img.shields.io/badge/X-00D9FF?style=for-the-badge&logo=x&logoColor=0D1117" /></a>
-</p>
+Interested in backend development, AI-powered applications, or building something useful?
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=150&section=footer&text=Think.%20Build.%20Validate.%20Scale.&fontColor=FFFFFF&fontSize=20&fontAlignY=75&animation=fadeIn" width="100%"/>
+Let's connect and create something meaningful.
+
+<div align="center">
+
+<a href="https://github.com/Rahil-dope">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+<a href="https://www.linkedin.com/in/rahiiihusss">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+</a>
+<a href="mailto:Rahilhussain431601@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
+</a>
+<a href="https://x.com/rahihuss">
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00D9FF"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=140&section=footer&text=THINK.%20BUILD.%20VALIDATE.%20SCALE.&fontColor=FFFFFF&fontSize=20&fontAlignY=70" width="100%" alt="Footer banner"/>
+
+</div>
