@@ -1,10 +1,6 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=190&section=header&text=RAHIL%20HUSSAIN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Rahil Hussain profile banner"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Building+AI-Powered+Applications;FastAPI+%7C+PostgreSQL+%7C+LLMs+%7C+RAG;Turning+Ideas+Into+Scalable+Products" alt="Animated introduction"/>
 
 <br/><br/>
